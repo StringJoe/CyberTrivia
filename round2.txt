@@ -1,0 +1,38 @@
+{
+"topics": ["Pentesting", "Security Tools", "Security Policies", "Reverse Engineering", "The Web", "Forensics"],
+
+"400": ["The name of the most popular penetration testing Linux\n distribution, maintained by Offensive Security",
+	"This tool is used to scan systems on a network for open ports, and features\n the NSE scripting engine for additional scans",
+	"This type of policy is used when you need to define\nhow computer equipment can be used",
+	"This type of tool is commonly used to step through a programs execution \nand observethe state of resources as the program progresses",
+	"To get around HTTP being stateless, these are given to users to allow\n the website to retain data about the user's current session",
+	"The de factor tool to sniff and monitor packets no a network\nContains an aquatic animal in the name"],
+
+"800": ["This phase of pentesting takes place after privilege escalation\n and entails exfiltrating sensitive data and/or installing \npersistence to try and pivot to other hosts on a network", 
+	"This tool is a wrapper around iptables (which happens to be a wrapper for netfilter)\nto simplify the process of setting up a firewall on Linux systems",
+	"Some individuals like to click and download everything they see because\nthey don't know any better, which is why you need this policy",
+	"This decompiling/disassembling tool was released by the NSA in 2019 \nafter being leaked by WikiLeaks in 2017",
+	"This type of vulnerability exists when attackers are able to inject their\nown scripts into a trusted website. This can be leveraged to deface\n a website, for phishing, or to hijack a user's session",
+	"This directory on Linux systems is the default place where logs are stored"],
+
+"1200": ["This type of framework is used in penetration testing (and red teaming)\nto manage multiple shell sessions across hosts", 
+	"This SIEM, according to the creators, is used by 91 of the Fortune 100\nto log data from multiple sources, which can then be queried\nby an analyst for threat detection and investigation",
+	"Because the Covid-19 virus caused many workers to work from home,\nit also caused this policy to be more needed than in years past",
+	"In 32-bit architecture, this register keeps track of the bottom of the stack.\nFunctionally, it keeps track of the previous function called so that the\nprogram can return to that point",
+	"This was 5th on the OWASP top 10 in 2017, describing situations where\n\"restrictions on what authenticated users are allowed to do are\nnot properly enforced\"",
+	"This is a hierarchical database that stores settings for the\nWindows operating system"],
+
+"1600": ["This document is critical to any good penetration test and outlines what is\nbeing tested, when it is being tested, and how it is being tested", 
+	"This tool is an Electron based app that makes use of graph theory to map\n out privileges, trusts, and more in an Active Directory environment",
+	"Because of how popular mobile devices became in the early 2000s,\nit forced many companies hands into creating\nthis type of policy used for personal devices",
+	"This type of compression places a stub just after the header of an executable\nsuch that the programs contents are only visible at runtime,\ntypically used to subvert static analysis techniques",
+	"This type of API shares data through URL path and typically returns the output\nin JSON format. In usual implementations, they usually only expect\none type of input",
+	"This tool is commonly used to analyze volatile memory, typically used in incident\nresponse to assess an already-compromised system without interacting\nwith the actual system itself"],
+
+"2000": ["This document is occasionally sent to a client after a penetration test has\n been completed to express that a penetration test was conducted\n at a given time for any auditors of the client company", 
+	"This tool created by Marcello Salvati and co. is a swiss army kinfe that\n helps automate assessing the security of large Active Directory networks\nwith notablefeatures such as credential stuffing, but more obscure\nfeatures such as LAPS password dumping",
+	"Data at rest and in transit are both very important to protect\nwhich is why this policy was created to make sure specific\nalgorithms are being used and have been publicly reviewed",
+	"This disassembly strategy iterates over a block of code,\n disassembling one instruction at a time without deviating",
+	"According to PortSwigger, this \"is a technique for interfering with the way a web\nsite processessequences of HTTP requests that are received from\none or more users.\"A recent example of this is CVE=2019=18277, in HAProxy",
+	"This open source forensics tool is used to perform disk analysis\nand uses a case-based workflow"]
+}

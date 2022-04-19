@@ -1,0 +1,38 @@
+{
+"topics": ["Before and After", "Physical Security", "Mobile Security", "Databases", "CVE", "Top 10 Attackers"],
+
+"200" : ["While Australia was burning, Donald Trump tried to building this great barrier", 
+	 "Although mainly done in large crowds, this type of thief likes to steal from\npeople by accidentally bumping into them",
+	 "While this is normally what children play in, mobile devices use this\nto keep applications from interacting with each other",
+	 "When inputting commands into the database, most newcomers find\nthemselves accidentally getting rid of data with this command",
+	 "The all too-famous EternalBlue vulnerability exploited a series\n of overflows in the implementation of this network protocol \nin the  Windows operating system",
+	 "This English mathematician is considered to be the \"Father of the computer\""],
+
+"400" : ["The art of solving codes is now being used to create a system of money", 
+	 "Watch out for these charismatic characters otherwise a few questions\nlater and they will have gotten all the information they need. ",
+	 "Android applications use this type of file format to\ndistribute their applications",
+	 "Just like how a person washes cleans their hands,\nthe database must do the same to user input",
+	 "The Log4Shell (CVE-2021-44228) vulnerability was discovered in late 2021\nin this Java logging framework which allowed an attacker to make custom\nJNDI queries, which could then be leveraged for RCE",
+	 "Because of her creation of the first computer algorithm,\nthis woman is known as the first \"computer programmer\""],
+
+"600" : ["Stored information that one of the triads say needs to be kept secret", 
+	 "While the organization's goal is to try and defend against external threats,\nthis type of threat has been among them the whole time",
+	 "Unlike most operating systems, mobile devices do not provide\nroot access. However, this can be gained by doing this to the device",
+	 "To distinguish between different elements in a table, this type\nof key is used to uniquely identify a row of data",
+	 "This vulnerability in the Windows Print Spooler service discovered\ndiscovered in the Summer of 2021 could be leveraged for both RCE or LPE\nwhich abuses drivers that are loaded into the service to get Administrator privileges",
+	 "If you don't keep a careful eye on this guy, he might launch a\nnuclear missile by whistling into the phone"],
+
+"800" : ["Some people claim these machines will become our new overlords,\nbut they need to search the web first?", 
+	 "If an attacker is able to gain physical access to a computer even for just a few minutes,\nThey can use this device to quickly run the commands they need",
+	 "Usually considered the worst sequel of a movie, this\ndatabase is more commonly used for mobile devices",
+	 "This is implemented in databases to make sure that all\nparts of the transaction are completed, or none of it is",
+	 "This vulnerability in polkit was disclosed in January of 2021 and abuses an\nout of bounds write in the pkexec binary to introduce a malicious environment\nvariable to get root access. Ryan does not regret dropping a Golang\nimplementation of the exploit code because it was cool and pog",
+	 "In 1983, this activist started the campaign for open source software"],
+
+"1000" : ["These types of hackers like to steal things using a snake as their companion", 
+	  "This type of physical threat sounds like a thousand hands pounding on windows,\nand makes large explosions in the night. Swallows trees, buildings, people\n, and races towards coastal cities like a giant mountain",
+	  "In case an employee misplaces their device, organization's can\nutilize this solution to completely wipe its data",
+	  "Sometimes this kind of deadlock can occur when there is a\ndelay in propagating local information",
+	  "This 2014 vulnerability in the OpenSSL implementation of TLS/DTLS\nabuses the \"heartbeat\" to leak memory that a user shout not have access to",
+	  "These 2 computer scientists revolutionized cryptography with their\n1976 paper, \"New Directions in Cryptography\""]
+}
