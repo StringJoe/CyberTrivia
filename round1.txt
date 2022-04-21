@@ -1,7 +1,7 @@
 {
 "topics": ["Before and After", "Physical Security", "Mobile Security", "Databases", "CVE", "Top 10 Attackers"],
 
-"200" : ["While Australia was burning, Donald Trump tried to building this great barrier", 
+"200" : ["In the past few years Australia was burning, and Donald Trump\ntried building something big", 
 	 "Although mainly done in large crowds, this type of thief likes to steal from\npeople by accidentally bumping into them",
 	 "While this is normally what children play in, mobile devices use this\nto keep applications from interacting with each other",
 	 "When inputting commands into the database, most newcomers find\nthemselves accidentally getting rid of data with this command",
