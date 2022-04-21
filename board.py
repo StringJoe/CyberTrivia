@@ -2,9 +2,6 @@ from tkinter import *
 import time
 import json
 
-''' do not enclose json objects with '' because this will throw an error
-this should be done using " (ex "hi" instead of 'hi')'''
-
 # There needs to be at least 2 different files read.
 # this is only because it makes it easier to manually enter
 # and read the topics and questions if they're spread over two
